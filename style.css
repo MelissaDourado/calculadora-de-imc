@@ -1,0 +1,13 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(255, 248, 216);
+    display: block;
+}
+   
+
+h1 {
+    background-color: rgb(255, 226, 130);
+    }
+button {
+color: rgb(126, 19, 0);
+}
